@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+
+# User data — never commit ChatGPT exports
+*.zip
+
+# Test/cache files
+.pytest_cache/
+.coverage
